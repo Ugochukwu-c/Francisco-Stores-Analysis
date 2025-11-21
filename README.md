@@ -19,3 +19,22 @@ Analyzed  Francisco Stores 2018 VS 2019 sales data to uncover trends across regi
 
 ## Project Aim
 To  demonstrate proficiency in data cleaning, KPI development, and dashboard creation by applying Excel based analysis to the Francisco Stores dataset, with the goal of uncovering actionable sales insights that inform strategic business decisions.
+
+## About the Dataset
+* **Source**: The dataset is a simulated retail dataset representing Francisco Stores transactional sales records, provided through the Wilaburg Institute of Technology Internship
+* **Size**: contains 44 rows and 7 columns of tranactional data, covering sales in 2018 VS 2019
+* **Key Fields**
+  1. Order Date: Transaction date used for time based analysis
+  2. Region: Geographic area where the sale occured, used  to analyze sales performance across different locations.
+  3. Manager: Name of the sales manager responsible for the ransaction, used to evaluate team performance and identify top performing managers.
+  4. Sales Person: Name of the sales representative who handled the transaction, used to track individual performance, identify top managers, and analyze contribution to overall sales
+  5. Quantity: Number of units sold
+  6. Selling Price: Price per individual product unit
+  7. Revenue: omputed feild (Quantity * Selling Price)
+
+  ## Tools Used
+  * **Microsoft Excel**: core tool for data analysis, visualization, and dashboard creation.
+  * **Power Query**: For data cleaning, preparation, and transformation of the raw dataset.
+  * **Pivot Tables & Pivot charts**: To summarize and analyze sales performance across multiple dimensions.
+  * **Excel Slicers**: To add interactivity and dynamic filtering to the dashboard
+  * **Github**:For documentation, versin control, and portfolio presentation
