@@ -37,4 +37,12 @@ To  demonstrate proficiency in data cleaning, KPI development, and dashboard cre
   * **Power Query**: For data cleaning, preparation, and transformation of the raw dataset.
   * **Pivot Tables & Pivot charts**: To summarize and analyze sales performance across multiple dimensions.
   * **Excel Slicers**: To add interactivity and dynamic filtering to the dashboard
-  * **Github**:For documentation, versin control, and portfolio presentation
+  * **Github**:For documentation, version control, and portfolio presentation
+
+  ## Importing Dataset
+  The Fransico Stores dataset was imported  using Power Query in Microsoft Excel to ensure a smooth and structured workflow. The process included:
+  * **Data Source connection**: connected directly to the raw Excel file containing the Francisco dataset through Power Query.
+  * **Data Type Recognition**: Verified and assigned correct data types to all columns for accurate analysis.
+  * **Initial cleaning**: Applied basic transformations such as renaming columns and checking for duplicate records.
+  * **Load to Excel**:Loaded and cleaned dataset into Excel's Data Model for analysis, KPI development and dashboard creation.
+## Data cleaning and Transformation
